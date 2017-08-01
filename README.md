@@ -1,2 +1,2 @@
-# jedi_way
-Be productive, you must. Take the Jedi way, you should.
+# Mindful Me
+A chrome extension to facilitate mindful browsing. Take back the control of your life and get things done
